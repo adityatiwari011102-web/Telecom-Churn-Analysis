@@ -27,7 +27,7 @@
   <tr>
     <td>
       <p align="center"><b>5. Retention Strategies</b></p>
-      <img src="5. Retention_Startegies.png" alt="Retention" width="100%">
+      <img src="5. Retention_Strategies.png" alt="Retention" width="100%">
     </td>
     <td>
       <p align="center"><b>6. Q&A with AI</b></p>
